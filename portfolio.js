@@ -2,7 +2,7 @@ import emoji from "react-easy-emoji";
 
 export const greetings = {
 	name: "Ramandeep Singh",
-	title: "Hello! I am Ramandeep",
+	title: "Hello! 👋👋" ,
 	description:
 		"I am a PROVEN web developer, with over 5+ years of experience in Front End Engineering. My ability to learn and master skills is unparalleled. The energy and burning desire within to succeed is what you are looking to add to your team. Lets connect!",
 	resumeLink:
@@ -226,14 +226,7 @@ export const experience = [
 		company: "Fiverr",
 		companylogo: "/img/icons/common/fiver.png",
 		date: "Apr 2022 - Present",
-		desc: "I worked as frontend web developer to design web based admin dashboards for mulitple apps using Django, Bootstrap, jQuery, Chart.js and some other libraries. I worked as API Engineer on a Kale App. Kale is a community platform for the creation of social reviews based on verified transactions. I built Fully Optimized and High Performance RESTful APIs using Django, DjangoRESTFramework, PostgresSQL, JWT Authentication, AWS, Integrated Plaid APIs for Fetching Bank Transactions, Integrated Sentry for monitoring Django Server and deployed the API on Heroku Server.",
-	},
-	{
-		role: "Software Engineer ",
-		company: "Manifold Capital",
-		companylogo: "/img/icons/common/mani.png",
-		date: "Jan 2017 - Dec 2020",
-		desc: "● KEY team lead in developing proprietary automation software, that allowed for result orientated targeted asset allocation which produced increased returns YoY. ● Developed the front end client facing platform using technologies such as HTML/CSS, JavaScript, Angular 13, React js, npm, git, github, docker, kubernetes, bootstrap, tailwind css ● Utilized API integrations on the Sterling Platform to feed data into proprietary algorithmic software. This increased overall floor performance by over 36% and increased returns on company assets. ● Participated in daily standups with senior level fund managers, and gained feedback and experience in sector-driven asset allocation",
+		desc: "I worked as frontend web developer to design web based admin dashboards for mulitple apps using Reactjs, Bootstrap, jQuery, Chart.js and some other libraries. I worked as API Engineer on pre-existing client companies, including multiple integrations. I built Fully Optimized and High Performance RESTful APIs using PostgresSQL, JWT Authentication, AWS, Integrated APIs for Fetching Bank Transactions, and deployed the API on Heroku Server.",
 	},
 	{
 		role: "Software Engineer",
@@ -242,6 +235,14 @@ export const experience = [
 		date: "Jan 2021 - Jan 2022",
 		desc: "● Assisted in front end web development, creating bug-free sign up pages and dynamic customer facing pages. Utilized Wordpress, Angular 13, React.js, Javascript, HTML/CSS, CSS frameworks. ● Integrated Stripe payment processors, continuously produced test cases using Jest and Jasmine, and deployed in a timely manner ● Cultivated and guided several new interns to deploy company culture and proper strategic execution, going above and beyond my role responsibilities to ENSURE startup culture success",
 	},
+	{
+		role: "Software Engineer ",
+		company: "Manifold Capital",
+		companylogo: "/img/icons/common/mani.png",
+		date: "Jan 2017 - Dec 2020",
+		desc: "● KEY team lead in developing proprietary automation software, that allowed for result orientated targeted asset allocation which produced increased returns YoY. ● Developed the front end client facing platform using technologies such as HTML/CSS, JavaScript, Angular 13, React js, npm, git, github, docker, kubernetes, bootstrap, tailwind css ● Utilized API integrations on the Sterling Platform to feed data into proprietary algorithmic software. This increased overall floor performance by over 36% and increased returns on company assets. ● Participated in daily standups with senior level fund managers, and gained feedback and experience in sector-driven asset allocation",
+	},
+
 ];
 
 export const projects = [
