@@ -290,7 +290,7 @@ export const seoData = {
 		"A PROVEN front end developer with full stack experience",
 	author: "Ramandeep Singh",
 	image: "https://avatars.githubusercontent.com/ramriddlez",
-	url: "https://developer-portfolio-1hanzla100.vercel.app",
+	url: "https://ramriddlez.github.io/",
 	keywords: [
 		"Ramandeep",
 		"Ramandeep Singh",
