@@ -265,6 +265,12 @@ export const projects = [
 		link: "https://sevaggap.github.io/Marvel-Comics-Wiki/"
 	},
 	{
+		name: "War Room Chat Application",
+		desc: "Fully functioning chat application that leverages Web Sockets, while using Firebase as the backend database. The styling is beautiful, and offers a seamless UI/UX experience for the user. New users are have authenticated logins using Google and/or Facebook. Technologies used are ENV privacy, Firebase DB, React js, React Context, and much more!",
+		github: "https://github.com/ramriddlez/Chat-app",
+		link: "https://warroom.netlify.app/"
+	}
+	{
 		name: "Atlantic Co. [COMING SOON]",
 		desc: "Full Stack MERN wesbite, for a real-life client. Fully functioning, multi page website, with functioning back end databases. Technologies used are React js, Nodejs, Express js, Javascript, HTML/CSS,",
 		github: "",
